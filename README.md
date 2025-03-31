@@ -115,10 +115,5 @@ pdf-analyzer/
 - Processamento limitado a texto
 - Sem suporte a imagens/gráficos
 - Tamanho máximo de documento não definido
-
-## 👥 Autores
-
-* **Leonardo Moraes** - *Desenvolvimento Inicial* - [carrosvelozes](https://github.com/carrosvelozes)
-  
 ---
 
