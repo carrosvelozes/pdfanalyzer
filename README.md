@@ -116,15 +116,6 @@ pdf-analyzer/
 - Sem suporte a imagens/gráficos
 - Tamanho máximo de documento não definido
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Áreas principais:
-- Otimização de performance
-- Melhorias na interface
-- Documentação
-- Testes automatizados
-
-
 ## 👥 Autores
 
 * **Leonardo Moraes** - *Desenvolvimento Inicial* - [carrosvelozes](https://github.com/carrosvelozes)
